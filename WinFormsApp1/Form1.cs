@@ -20,8 +20,8 @@ namespace WinFormsApp1
 
 
         //存储历史窗体宽高变量
-        private int FromLastWidth = 0;
-        private int FromLastHeight = 0;
+        private int FromLastWidth = 0; 
+        private int FromLastHeight = 0; 
 
         public Form1()
         {
